@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" id="1" name="tarih" displayName="tarih" ref="A1:A2" totalsRowShown="0"><autoFilter ref="A1:A2"><filterColumn colId="0" hiddenButton="1"/></autoFilter><tableColumns count="1"><tableColumn id="1" name="Son Tarih" dataDxfId="0"><calculatedColumnFormula>TODAY()</calculatedColumnFormula></tableColumn></tableColumns><tableStyleInfo name="TableStyleMedium2" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0"/></table>
