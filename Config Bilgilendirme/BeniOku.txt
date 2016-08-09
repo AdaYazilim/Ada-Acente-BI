@@ -1,1 +1,2 @@
-BI Raporlar klasörünü aynen bilgisayarda c'nin altına kopyalayın. BI Raporlar klasörünün içindeki config.xml dosyasını veritabanınıza bağlanacak şekilde değiştirin.
+BI Raporlar klasÃ¶rÃ¼nÃ¼ aynen bilgisayarda c'nin altÄ±na kopyalayÄ±n. 
+BI Raporlar klasÃ¶rÃ¼nÃ¼n iÃ§indeki config.xml dosyasÄ±nÄ± veritabanÄ±nÄ±za baÄŸlanacak ÅŸekilde deÄŸiÅŸtirin.
