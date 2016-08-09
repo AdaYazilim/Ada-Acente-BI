@@ -1,1 +1,1 @@
-BI Raporlar klasörünü aynen bilgisayarda c'nin altýna kopyalayýn.
+BI Raporlar klasörünü aynen bilgisayarda c'nin altýna kopyalayýn. BI Raporlar klasörünün içindeki config.xml dosyasýný veritabanýnýza baðlanacak þekilde deðiþtirin.
